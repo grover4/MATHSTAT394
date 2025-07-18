@@ -1,2 +1,2 @@
 # MATHSTAT394
-Course repo for 394
+Course repo for MATH/STAT 394 
