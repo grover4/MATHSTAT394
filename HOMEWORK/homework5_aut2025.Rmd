@@ -41,7 +41,7 @@ a. What is the distribution of $X$ assuming the new therapy is no better than th
 
 b. Make a probability histogram of the distribution in part a. Add a vertical line at $x=7$ to the histogram using the `geom_vline` layer.  (*Hint* Type `? geom_vline` in the Console for help.)
 
-c. The probability $P(X \geq 7)$ quantifies how unusually large an observed value of 7 is under the presumed distribution. Calculate this number in a code chunk manually as well as by using an R function. Be sure to show the numbers.
+c. The probability $P(X \geq 7)$ quantifies how unusually large an observed value of 7 is under the presumed distribution. Calculate this number in a code chunk manually using `dbinom` as well as by using `pbinom`. Be sure to show the numbers.
 
 d. Based on your calculation from part c, do you believe the presumption that the new therapy is no better than the old one? Why or why not?
 
