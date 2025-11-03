@@ -13,7 +13,7 @@ header-includes:
 knitr::opts_chunk$set(echo = TRUE)
 #R packages
 library(tidyverse)  
-library(ggforce)       #for the electrical circuit diagram
+
 ```
 
 * * * 
