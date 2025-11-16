@@ -68,8 +68,8 @@ b. Calculate the probability that fewer than 10 insects survive, using the model
 
 c. What other probability distribution might be more computationally convenient and would provide a good approximation? Be sure to state the name and values of any parameters.
 
-d. Calculate  an approximation to the probability from part b using the model from part 
-c. Be sure to show your code and output.
+d. Calculate  an approximation to the probability from part b using the model from part. Be sure to show your code and output.
+
 
     ```{r 3d}
     
@@ -114,7 +114,7 @@ b. Let $X$ denote the number of mites on a randomly selected leaf. In this quest
     ```
     
     
-c. Fill in the blanks in the code chunk below and then remove the `eval = FALSE` option. 
+c. Fill in the blanks in the code chunk below and then remove the `eval = FALSE` option. Which model do you prefer and why?
 
 
     ```{r 4c, eval = FALSE}
